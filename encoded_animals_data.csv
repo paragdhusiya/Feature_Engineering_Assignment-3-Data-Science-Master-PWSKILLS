@@ -1,0 +1,6 @@
+Species,Species_Encoded,Habitat_Forest,Habitat_Grassland,Habitat_Jungle,Habitat_Savannah,Diet_Carnivore,Diet_Herbivore
+Lion,2,False,False,False,True,True,False
+Giraffe,3,True,False,False,False,False,True
+Zebra,1,False,True,False,False,False,True
+Lion,2,False,False,False,True,True,False
+Elephant,4,False,False,True,False,False,True
